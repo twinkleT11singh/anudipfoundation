@@ -1,5 +1,5 @@
 HealthBridge
-A simple and efficient healthcare management system built using Python. This project models interactions between patients, doctors, and appointment scheduling using object-oriented programming principles.
+A simple and efficient healthbridge management system built using java and mysql. This project models interactions between patients, doctors, and appointment scheduling using object-oriented programming principles.
 
 Features
 Patient Management: Store patient information and track appointments.
